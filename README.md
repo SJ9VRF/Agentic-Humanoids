@@ -107,3 +107,13 @@ Each agent operates autonomously but communicates with others for coordination:
 ### 4. Learning and Adaptation
 If the task fails (e.g., the cup is dropped), the Learning Agent refines the Manipulation Agent’s grip strategy.  
 The robot stores this experience in memory for future improvement.
+
+---
+
+## Key Advantages of This System
+- **Autonomy**: Each agent independently handles its domain, reducing central bottlenecks.
+- **Scalability**: New capabilities can be added as agents without overhauling the system.
+- **Real-Time Adaptation**: Feedback loops ensure tasks are dynamically adjusted.
+- **Continuous Learning**: Knowledge grows over time, enhancing task performance.
+
+
