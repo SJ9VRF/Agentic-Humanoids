@@ -1,5 +1,8 @@
 # Agentic-Humanoids
 
+![Screenshot_2025-01-20_at_6 31 31_AM-removebg-preview](https://github.com/user-attachments/assets/b396dd4f-1189-4a8b-a1eb-e292110e749b)
+
+
 # System Overview
 
 The humanoid robot functions as a multi-agent system where each component acts as an autonomous agent. Each agent has:
