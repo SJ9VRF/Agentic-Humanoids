@@ -16,7 +16,6 @@ Real-Time Feedback:
 Extensibility:
 - Ready for integration with real robotic hardware via APIs like ROS MoveIt! or low-level hardware drivers.
 ---
----
 ### Extensions
 Integration with Real Hardware:
 - Replace simulated methods with actual robotic hardware drivers using ROS, MoveIt!, or similar frameworks.
