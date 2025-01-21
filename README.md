@@ -72,6 +72,9 @@ The humanoid robot functions as a multi-agent system where each component acts a
   - **Gesture Recognition**: Interpret and respond to human gestures.
   - **Status Updates**: Provide progress reports during task execution.
 
+<img width="902" alt="Screenshot 2025-01-21 at 9 45 20 AM" src="https://github.com/user-attachments/assets/501b7c36-bf0f-4568-805e-7238fe94dfda" />
+
+
 ---
 
 ## Agentic Workflow in Action
