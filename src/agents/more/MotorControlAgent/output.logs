@@ -1,1 +1,11 @@
+[Motor Control Agent] Performing motor control task 'movement'...
+[Motor Control Agent] Moving to position [1.0, 1.0, 0.0] with orientation [0, 0, 90]
+[Motor Control Agent] Computing inverse kinematics for position [1. 1. 0.] and orientation [0. 0. 90.]
+[Motor Control Agent] Computed joint angles: {'joint_1': -45.3, 'joint_2': 30.7, 'joint_3': 10.1}
+[Motor Control Agent] Executing joint movements: {'joint_1': -45.3, 'joint_2': 30.7, 'joint_3': 10.1}
+[Motor Control Agent] Joint movements executed successfully.
+[Motor Control Agent] Performing dynamic balance control for target position [1. 1. 0.]
+[Motor Control Agent] Balance maintained successfully.
+[Motor Control Agent] Moved successfully to [1. 1. 0.] with orientation [0. 0. 90.]
+Task success: True
 
