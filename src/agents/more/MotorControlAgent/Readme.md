@@ -1,18 +1,21 @@
 Inverse Kinematics:
+- Computes the joint angles required for the robot to reach a given target position and orientation.
+- Implementation simulates the computation; replaceable with libraries like KDL or PyBullet.
 - Simplified computation based on target position and orientation.
-  
+ 
 Dynamic Balance Control:
+- Ensures the robot maintains stability during movement using models like Zero Moment Point (ZMP) or Center of Mass (COM).
 - Implements simulated balance corrections based on the center of mass.
-  
-Trajectory Execution:
-- Handles multi-waypoint trajectories seamlessly.
-  
-Joint Limit Handling:
-- Ensures joint angles stay within predefined limits.
-  
-Error Handling:
-- Includes robust handling for exceptions during motion execution or balance control.
 
+Trajectory Execution:
+- Handles multi-waypoint motion by iterating through a trajectory of target positions and orientations.
+
+Real-Time Feedback:
+- Logs progress and errors in each step of motion planning and execution.
+
+Extensibility:
+- Ready for integration with real robotic hardware via APIs like ROS MoveIt! or low-level hardware drivers.
+---
 ---
 ### Extensions
 Integration with Real Hardware:
