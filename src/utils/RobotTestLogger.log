@@ -1,1 +1,5 @@
+2025-01-20 10:30:00,000 - RobotTestLogger - INFO - System initialized successfully.
+2025-01-20 10:30:01,000 - RobotTestLogger - WARNING - Low battery detected.
+2025-01-20 10:30:02,000 - RobotTestLogger - ERROR - Task execution failed.
+2025-01-20 10:30:03,000 - RobotTestLogger - DEBUG - Debugging motor control values...
 
